@@ -1,0 +1,10 @@
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\bin\Debug\DiceBR.exe.config
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\bin\Debug\DiceBR.exe
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\bin\Debug\DiceBR.pdb
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.csproj.AssemblyReference.cache
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.Properties.Resources.resources
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.csproj.GenerateResource.cache
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.csproj.CoreCompileInputs.cache
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.exe
+C:\Users\jjjam\Source\Repos\DiceBR\DiceBR\obj\Debug\DiceBR.pdb
