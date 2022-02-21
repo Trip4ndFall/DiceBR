@@ -9,3 +9,6 @@ Dice BR is used by entering six different items into the given text boxes, this 
 - Better animation for dice roll
 ## Helping with this project
 Currently it is only myself and my friend working on the main repo of this app but we encourage forks to be created and request that I am credited in this forked application. If you would like to implement any features from your forked repo, please contact me via trip98jjj@gmail.com and we will consider adopting some of your additions into the main application.
+
+## Credit
+Alea_1.png, Alea_2.png, Alea_3.png, Alea_4.png, Alea_5.png, Alea_6.png by PhJ - https://creativecommons.org/licenses/by-sa/3.0/deed.en, no changes made
